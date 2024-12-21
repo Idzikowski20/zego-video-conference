@@ -10,7 +10,7 @@ const HomePage = () => {
             Welcome to ChatMe
           </h1>
           <p className="text-zinc-700 text-lg max-w-lg mx-auto mt-4">
-            Experience seamless video and voice calls with your team and friends
+            Now with improved video and voice calls for everyone
           </p>
         </div>
         <JoinRoom />
