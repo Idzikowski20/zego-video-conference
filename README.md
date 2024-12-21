@@ -1,6 +1,6 @@
 # VideoApp - Video Conferencing WebApp
 
-<img src="https://github.com/user-attachments/assets/55b9afeb-89de-4e16-9437-683c5d970a6d" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
+<img src="https://github.com/user-attachments/assets/4436991a-f450-49c8-a107-5079296b69bf" alt="Luro Thumbnail" style="border-radius: 12px;" width="1280">
 
 
 ## 🌟 Introduction
